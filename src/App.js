@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Sidebar from './Components/Sidebar';
-import Dashboard from './pages/dashboard.jsx';
+import Dashboard from './pages/dashboard';
 import Kanban from './pages/Kanban';
 import Team from './pages/Team';
 import Analytics from './pages/Analytics';

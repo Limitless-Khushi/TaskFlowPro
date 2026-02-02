@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Sidebar from './components/Sidebar';
+import Sidebar from './Components/Sidebar';
 import Dashboard from './pages/Dashboard';
 import Kanban from './pages/Kanban';
 import Team from './pages/Team';
